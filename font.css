@@ -1,0 +1,15 @@
+@font-face{
+	font-family:"mukta"; 
+	src:url('fonts/Mukta/Mukta-Regular.ttf');
+}
+
+@font-face{
+	font-family:'roboto'; 
+	src:url('fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+@font-face{
+	font-family:'shadows'; 
+	src:url('fonts/Shadows_Into_Light/ShadowsIntoLight-Regular.ttf');
+}
+
+
